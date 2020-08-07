@@ -3,6 +3,10 @@ def intersection(arrays):
     YOUR CODE HERE
     """
     # Your code here
+    result = []
+    dictNumber = {}
+
+    for 
 
     return result
 
